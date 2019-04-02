@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602024514088",
+    "firebase_url": "https://dycky-most.firebaseio.com",
+    "project_id": "dycky-most",
+    "storage_bucket": "dycky-most.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602024514088:android:2205f97106f82ba6",
+        "android_client_info": {
+          "package_name": "cz.redwolf.dyckymost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602024514088-2gliiovaelf3ums8882hal8oemt0hif4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-GHC37U0-hopXfF-pSkv5MjboO6AdazY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
